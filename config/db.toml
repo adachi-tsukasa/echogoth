@@ -1,0 +1,6 @@
+[DB]
+DBMS = "mysql"
+USER = "root"
+PASS = "root"
+PROTOCOL = "tcp(localhost)"
+DBNAME = "devdb"
